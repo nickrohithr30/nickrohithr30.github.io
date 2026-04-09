@@ -7,3 +7,5 @@ These are a some things that will be included in the repository:
 3. My contact Information
 
 **Stay tuned for updates!** 
+<iframe src="leaflet_map.html" width="800" height="600" 
+frameborder="0"></iframe> 
